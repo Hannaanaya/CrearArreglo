@@ -1,0 +1,14 @@
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\bin\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.exe
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\bin\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.deps.json
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\bin\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.runtimeconfig.json
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\bin\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.runtimeconfig.dev.json
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\bin\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.dll
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\bin\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.pdb
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\obj\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\obj\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.AssemblyInfoInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\obj\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.AssemblyInfo.cs
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\obj\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.csproj.CoreCompileInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\obj\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.dll
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\obj\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.pdb
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\obj\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.genruntimeconfig.cache
+C:\Users\Hanna Ximena\Documents\UTEL\4 cuatrimestre\1er bimestre\Algoritmo y estrucrura de datos\Actividades\semana 2\Ejercicio1_CrearArreglo\obj\Debug\netcoreapp3.1\Ejercicio1_CrearArreglo.csproj.AssemblyReference.cache
